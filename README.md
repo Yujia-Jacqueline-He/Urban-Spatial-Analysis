@@ -1,0 +1,2 @@
+# Urban-Spatial-Analysis
+Data pre-processing using pandas and numpy for data clean and aggregation, then geocode crime data into point and spatially join census tract and crime point using ArcMap; Used Seaborn and Matplotlib in Python for visualization and Explore Data Analysis; Built multi-layer maps using CARTO combined with Stepwise regression model to verify certain type of  crimes that significantly affects the price of short-term rental(Airbnb) and long-term housing respectively in Boston area
